@@ -1,6 +1,6 @@
-# Authentication & Authorization - MySQL, REACT, EXPRESS, NODE.JS, PASSPORT.JS
+# A simple Crud Application using nodejs-express-sequelize-mysql.
 
-![Image of HeaderPage]()
+![Image of HeaderPage](https://github.com/oneil213/MySQL-CRUD/blob/c529f88409327da4a8fb2e080eaaebc82b50308e/git-banner.jpg)
 A simple Crud Application using nodejs-express-sequelize-mysql.
 
 ## Getting Started
